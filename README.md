@@ -5,10 +5,11 @@
 ---
  
 ## 🙋‍♂️ Sobre mí
- 
-💻 **Ingeniero de Software** con más de 3 años de experiencia en el ciclo de vida de desarrollo de aplicaciones web y sistemas empresariales.  
-🎯 Apasionado por la mejora continua, la resolución de problemas y la creación de soluciones tecnológicas escalables e innovadoras.  
-📚 Además, soy **profesor universitario**, compartiendo conocimientos en informática, programación, bases de datos y desarrollo de software.
+
+💡 Ingeniero de Software especializado en **.NET/Full Stack Developer**, con más de 3 años de experiencia creando soluciones empresariales escalables y de alto impacto.  
+🚀 Apasionado por la mejora continua, la innovación y la resolución de problemas, siempre buscando aportar valor a través de la tecnología.  
+📚 Además, soy **profesor universitario**, compartiendo conocimientos en informática, programación, bases de datos y desarrollo de software.  
+
  
 ---
  
@@ -24,7 +25,7 @@
  
 ---
  
-### 🌐 Frontend
+### 🌐 Frontend/UI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -35,7 +36,7 @@
  
 ---
  
-### 📚 Backend & Frameworks
+### 📚 Frameworks/Plataformas
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![.NET 6](https://img.shields.io/badge/.NET%206-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET MVC 5](https://img.shields.io/badge/ASP.NET%20MVC%205-512BD4?style=flat-square&logo=dotnet&logoColor=white)
