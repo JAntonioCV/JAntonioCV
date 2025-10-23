@@ -1,12 +1,12 @@
 <h1 align="center">¡Hola! 👋 Soy Josiel Antonio Castillo Valle</h1>
  
-<h2 align="center">👨‍💻 Software Engineer | .NET/Full Stack Developer</h2>
+<h2 align="center">Software Engineer | Full Stack .NET Developer | Android Developer | AWS CCP | Alumni ONE </h2>
  
 ---
  
 ## 🙋‍♂️ Sobre mí
 
-💡 Ingeniero de Software especializado en **.NET/Full Stack Developer**, con más de 3 años de experiencia creando soluciones empresariales escalables y de alto impacto.  
+💡 Ingeniero de Software especializado en **Full Stack .NET Developer**, con más de 3 años de experiencia creando soluciones empresariales escalables y de alto impacto.  
 🚀 Apasionado por la mejora continua, la innovación y la resolución de problemas, siempre buscando aportar valor a través de la tecnología.  
 📚 Además, soy **profesor universitario**, compartiendo conocimientos en informática, programación, bases de datos y desarrollo de software.  
 
