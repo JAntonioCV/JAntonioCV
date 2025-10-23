@@ -48,7 +48,7 @@
  
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+#![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
  
 ---
  
@@ -129,11 +129,3 @@
  
  
 ---
- 
-## 📬 Contacto
- 
-[![Email](https://img.shields.io/badge/Email-josielcastillov%40gmail.com-red?logo=gmail&logoColor=white)](mailto:josielcastillov@gmail.com)
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JAntonioCV-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jantoniocv/)
- 
-[![GitHub](https://img.shields.io/badge/GitHub-JAntonioCV-000?logo=github&logoColor=white)](https://github.com/JAntonioCV)
