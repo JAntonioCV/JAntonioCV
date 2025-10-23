@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy Josiel Antonio Castillo Valle</h1>
  
-<h2 align="center">Software Engineer | Full Stack .NET Developer | Android Developer | AWS CCP | Alumni ONE </h2>
+<h2 align="center">Full Stack .NET Developer | Android Developer | AWS CCP | Alumni ONE </h2>
  
 ---
  
