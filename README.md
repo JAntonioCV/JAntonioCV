@@ -93,7 +93,7 @@
   
 ## 💼 Experiencia
  
-**.NET/Full Stack Developer**  
+**Full Stack .NET Developer**  
  
 - 💻 **UNAN Managua (2022 – Actualidad)**  
   Desarrollo de aplicaciones web y sistemas empresariales con enfoque en soluciones escalables y mantenimiento eficiente.
