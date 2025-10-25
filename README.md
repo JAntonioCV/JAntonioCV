@@ -91,7 +91,7 @@
 
 ---
   
-## 💼 Experiencia Relevante
+## 💼 Experiencia
  
 **.NET/Full Stack Developer**  
  
